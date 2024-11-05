@@ -82,7 +82,8 @@ This guide covers a structured approach to completing the sales performance anal
 
 ![image](https://github.com/user-attachments/assets/a82bd98f-12c5-43f2-b047-0a5b10c94d86)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f5308450-6c1b-472d-bf44-fe9a24dfbf1b)
+
 
 
 
