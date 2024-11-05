@@ -4,6 +4,7 @@ Objective
 The goal of this project is to analyze and visualize the sales performance of a retail store. You’ll identify top-selling products, assess regional sales performance, track monthly sales trends, and summarize insights on an interactive Power BI dashboard.
 
 ##Tools Used
+
 Excel: Initial data exploration and summary calculations
 SQL Server: Data extraction and query-based analysis
 Power BI: Final visualization and interactive dashboard
