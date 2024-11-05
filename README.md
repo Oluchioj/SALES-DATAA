@@ -71,3 +71,10 @@ Publish: Share the dashboard through Power BI Service, allowing relevant stakeho
 
 ##Conclusion
 This guide covers a structured approach to completing the sales performance analysis project. By following these steps, you’ll generate insights in Excel, refine them through SQL queries, and ultimately visualize them in an interactive Power BI dashboard. The end result will be a robust tool that highlights key sales trends, regional performance, and top products, providing valuable insights to drive business decisions.
+
+![image](https://github.com/user-attachments/assets/a6b3af6d-3813-4c0e-b77c-b552425f1810)
+
+![image](https://github.com/user-attachments/assets/ffbe62ef-1b22-4969-af1f-50fc16632507)
+
+![image](https://github.com/user-attachments/assets/a311434f-a3dd-40ca-a755-42c3efd8d47d)
+
